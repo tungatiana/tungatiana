@@ -1,118 +1,80 @@
-<h1 align="center">✨TUNGA Tiana✨</h1>
-<h3 align="center">Student Developer • Robotics • AI • Creative Tech</h3>
+<h1 align="center">Tiana Tunga</h1>
 
 <p align="center">
-Building cool things with code, design, and curiosity 🚀
+Student Developer • Robotics • Backend • Creative Technology
+</p>
+
+<p align="center">
+Building ideas into systems — design, code, and real impact.
 </p>
 
 ---
 
-## 🌍 Profile
+<p align="center">━━━━━━━━━━━━━━━━━━ 🟢 Snapshot ━━━━━━━━━━━━━━━━━━</p>
 
-🎓 10th Grade Student  
-💻 Backend • Robotics • UI/UX  
-🧠 Exploring AI, automation & real-world problem solving  
-✨ I build projects that mix logic + creativity  
-
----
-
-## ⚡ Snapshot
-
-- 🏫 Student Developer  
-- 🤖 Robotics & Arduino Projects  
-- 🌐 Backend APIs (Node.js / Express)  
-- 🎨 UI Design (Figma / Illustrator / Canva)  
-- 🚀 Future Tech Creator  
+* 🎓 10th Grade Student Developer
+* ⚡ Backend APIs & real projects
+* 🤖 Robotics & Arduino builder
+* 🎨 UI design + creative tech
+* 🌱 Future engineer mindset
 
 ---
 
-## 👩🏽‍💻 About Me
+<p align="center">━━━━━━━━━━━━━━━━━━ 🌿 About ━━━━━━━━━━━━━━━━━━</p>
 
-I’m a student developer passionate about building meaningful tech.
+I’m a student developer focused on building meaningful technology.
 
-I enjoy:
-- solving real problems with code  
-- creating interactive projects  
-- learning new technologies fast  
-- combining design + development  
+I like turning ideas into working systems — backend apps, robotics projects, and interactive digital experiences.
 
-Currently growing in **backend development, robotics, and AI concepts.**
+I learn fast, build consistently, and care about creating things that matter.
 
 ---
 
-## 🧰 Skills & Tools
+<p align="center">━━━━━━━━━━━━━━━━━━ 🧩 Skills & Tools ━━━━━━━━━━━━━━━━━━</p>
 
-💻 Languages  
-- JavaScript  
-- C  
-- HTML & CSS  
+💻 Languages
+JavaScript • C • HTML • CSS
 
-⚙️ Backend  
-- Node.js  
-- Express  
-- MongoDB  
-- REST APIs  
+⚙️ Backend
+Node.js • Express • MongoDB • REST APIs
 
-🎨 Design  
-- Figma  
-- Adobe Illustrator  
-- Canva  
+🎨 Design
+Figma • Illustrator • Canva
 
-🤖 Hardware / Robotics  
-- Arduino  
-- Sensors  
-- Interactive systems  
+🤖 Robotics
+Arduino • Sensors • Interactive systems
 
 ---
 
-## 🚀 Projects
+<p align="center">━━━━━━━━━━━━━━━━━━ 🚀 Projects ━━━━━━━━━━━━━━━━━━</p>
 
-✨ Example projects I’ve built:
-
-- 🛒 Supermarket Backend API (Node.js + MongoDB)  
-- 😴 Sleep Schedule Analyzer (C project)  
-- 🎮 Arduino Interactive Quiz Game  
-- 🌐 NGO Awareness Website  
-- 🤖 Robotics class projects  
-
-More coming soon…
+🛒 Supermarket Backend API
+😴 Sleep Schedule Analyzer
+🎮 Arduino Interactive Quiz Game
+🌍 NGO Awareness Website
+🤖 Robotics experiments
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">━━━━━━━━━━━━━━━━━━ 🌱 Currently Exploring ━━━━━━━━━━━━━━━━━━</p>
+
+* Backend architecture
+* AI fundamentals
+* System design
+* Real-world project building
+
+---
+
+<p align="center">━━━━━━━━━━━━━━━━━━ 📊 GitHub ━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&title_color=22c55e&icon_color=22c55e&ring_color=22c55e"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&title_color=22c55e"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced backend architecture  
-- AI fundamentals  
-- System design basics  
-- Real-world project building  
-
----
-
-## 🎯 Goals
-
-- Build strong developer portfolio  
-- Create impactful tech projects  
-- Contribute to open source  
-- Become an engineer  
-
----
-
-## 💫 Fun Fact
-
-I mix tech + creativity — I don’t just code, I design experiences.
-
----
-
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+<p align="center">🌿 Growing. Building. Improving.</p>
